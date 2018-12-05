@@ -1,3 +1,15 @@
+# Ivan Vigliante
+# CS2302 TR 10:20am-11:50am
+# Lab 6
+# Professor Aguirre, Diego
+# TA Saha Manoj
+# Date of last modification: 12/04/2018
+# This program serves as an implementation of an
+# adjacency list graph. It contains the graph node,
+# the graph itself where all the algorithms and
+# functions are implemented, and three classes to
+# raise errors if needed.
+
 from DSF import DisjointSetForest
 
 class KruskalError(Exception):

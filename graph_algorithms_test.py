@@ -1,3 +1,12 @@
+# Ivan Vigliante
+# CS2302 TR 10:20am-11:50am
+# Lab 6
+# Professor Aguirre, Diego
+# TA Saha Manoj
+# Date of last modification: 12/04/2018
+# The purpose of this program is to test the Graph class and
+# the kruskal minimum spanning tree and topological sort algorithms.
+
 from Graph import GraphAL
 
 #   ___1__

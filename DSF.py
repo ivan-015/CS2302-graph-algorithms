@@ -1,3 +1,14 @@
+# Ivan Vigliante
+# CS2302 TR 10:20am-11:50am
+# Lab 6
+# Professor Aguirre, Diego
+# TA Saha Manoj
+# Date of last modification: 12/04/2018
+# This program serves as an implementation of a
+# disjoint set forest, and is used by the Graph class
+# to implement Kruskal's algorithm to check for cycles.
+
+
 class DisjointSetForest:
     def __init__(self, num_sets):
         self.dsf = [-1] * num_sets
